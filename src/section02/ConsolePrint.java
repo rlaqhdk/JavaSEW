@@ -24,10 +24,10 @@ public class ConsolePrint {
 		System.out.print("Welcom.");
 		
 		System.out.println("Java World");
-		System.out.println();
+
 		
 		System.out.printf("오늘은 %d월 %d일 입니다.\n", 4, 22);
-		System.out.println();
+		
 		
 		System.out.printf("%d은 첫번째, %f은 두번째, %s은 세번째.\n", 1, 2.0, "셋");
 	}
